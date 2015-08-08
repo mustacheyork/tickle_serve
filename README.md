@@ -1,10 +1,10 @@
-「Swiftビギナーズ勉強会 第９回」で登壇した資料です。 
+「Swiftビギナーズ勉強会 第９回」で登壇した際のコードです。 
 
 iOSアプリから、サーバにHTTP通信を行い、データの取得と登録を行うという内容です。 
 
 Almofireというライブラリを利用して、Swift + Sinatra + Sqlite3で開発しています。 
 
-https://swift-beginners.doorkeeper.jp/events/26892 
+https://swift-beginners.doorkeeper.jp/events/26892   
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
 
 「Swiftビギナーズ勉強会」は、iOSアプリをSwift、Objective-Cなどで開発するための初心者勉強会＆もくもく会です。 
