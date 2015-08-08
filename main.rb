@@ -20,7 +20,7 @@ get '/' do
   data = {
     responseData: {
       results: [
-          "title": "Hollow Swift:)",
+          "title": "Hello Swift:)",
           "message": "入力して送信してね！"
       ]
       }
