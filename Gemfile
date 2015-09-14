@@ -11,3 +11,9 @@ group :development, :test do
   gem "sqlite3"
   gem "sinatra-reloader"
 end
+
+group :development do
+  gem 'capistrano', require: false
+  gem 'capistrano-rbenv'
+  gem 'capistrano-bundler'
+end
